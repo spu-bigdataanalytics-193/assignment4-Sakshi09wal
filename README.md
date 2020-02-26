@@ -4,9 +4,7 @@
 ## About Dataset
 
 The data consists of flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008. 
-We have a dataset of size 1.6 GB (compressed, and 12 GB when uncompressed), with the records of nearly 120 million records.  
-
-Here is the link of  dataset website [Statistical Computing](http://stat-computing.org/dataexpo/2009/).
+We have a dataset of size 1.6 GB (compressed, and 12 GB when uncompressed), with the records of nearly 120 million records.  Here is the link of  dataset website [Statistical Computing](http://stat-computing.org/dataexpo/2009/).
 
 
 
