@@ -1,4 +1,4 @@
-# :girl: Assignment 3 - Spark :trophy:
+# :girl: Assignment 3 - Spark :girl:
 
 
 ## About Dataset
