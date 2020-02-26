@@ -1,4 +1,4 @@
-# :girl: Assignment 3 - Spark ::trophy:
+# :girl: Assignment 3 - Spark :trophy:
 
 
 ## About Dataset
@@ -19,7 +19,7 @@ There are few ways of using spark like Google Colab, Databricks and we can downl
 
 ### 2. Carrier Counts
 
-In this part I will **create a notebook** and implement map reduce algorithm and find the carrier counts using Spark. 
+In this part I have created spark session and implement map reduce algorithm and calculated carrier counts using Spark. 
 
 
 
