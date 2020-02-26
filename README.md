@@ -17,7 +17,7 @@ There are few ways of using spark like Google Colab, Databricks and we can downl
 
 ### 2. Carrier Counts
 
-In this part I have created spark session and implement map reduce algorithm and calculated carrier counts using Spark. 
+In this part I have created spark session and calculated carrier counts using  map reduce algorithm.
 
 
 
